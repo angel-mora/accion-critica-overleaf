@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "bc2231e9d9b13410",
+    "type": "split",
+    "children": [
+      {
+        "id": "9111fab88d71c7fa",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af3090fb1d637240",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6606775b8b4fb24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18ea5cf686c55206",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "72cf3906baca1a4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3491dea126ed0a2e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c18f6d31805a9002",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee5e8ab0d3cc3cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8827cf19bba9add8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8458742c4322842",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "053e0e483a521cfc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d27fa42ad39e34b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9111fab88d71c7fa",
+  "lastOpenFiles": [
+    "en/md/chapters/01-intro.md",
+    "4chan.org.md"
+  ]
+}
