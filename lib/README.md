@@ -10,5 +10,5 @@ mv es/latex/chapters/*.md es/md/chapters/
 
 Then remove the tex format from md file.
 ```bash
-for i in es/latex/chapters/*.tex.md ; do echo "$i" && mv $i $(echo "$i" | cut -f 1 -d '.') ; done
+for i in es/latex/chapters/*.tex.md ; do echo "$i" && mv $i "${i//\.tex/}"; done
 ```
