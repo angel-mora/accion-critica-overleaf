@@ -865,7 +865,7 @@ capacidad de instrumentalizar cualquier relación. Entender los circuitos
 de información se hace clave para ir más allá de la visión
 tecnologizante de la realidad, para encontrar mecanismos que rompan la
 lógica de control que se hace cada vez más difusa y permanente dentro de
-la vida. La *forma de vida* que por su comprensión tecnocrítica del
+la vida. La *forma de vida* que por su comprensión [[tecnocrítica]] del
 mundo es capaz de desdoblar y visibilizar los elementos que dan poder al
 [[Imperio]] en su despliegue cibernético, es una que deviene hacker. La
 constitución de una multitud de hackers constituye un cuerpo político

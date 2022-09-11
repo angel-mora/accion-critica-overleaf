@@ -1,4 +1,4 @@
-# La posición tecnocrítica es la destitución del [[Imperio]] {#cha:la-posición-tecnocrítica-es-la-destitución-del-imperio}
+# La posición [[tecnocrítica]] es la destitución del [[Imperio]] {#cha:la-posición-[[tecnocrítica]]-es-la-destitución-del-imperio}
 
 De Laurentis prefiere el termino tecnología al de género para referirse
 a las formas de opresión performativas y moleculares que condicionan a
@@ -181,7 +181,7 @@ es el totalitarismo urbano tecnocapitalista). La guerra contra la
 dominación mercantil y contra la religión de Estado solo podrá encontrar
 victorias allí donde la acción se dirija a la disolución misma del que
 es/tá *sujeto*, a la *destitución* tecnomaterial del estado actual de
-las cosas. Una toma de partido por una acción libertaria, tecnocrítica.
+las cosas. Una toma de partido por una acción libertaria, [[tecnocrítica]].
 
 ![Cartel de la película Elysium, que muestra una tecnoutopía lunar
 semejante al escenario de exterminio descrito en *Four
@@ -222,7 +222,7 @@ tecnomaterial, como lo han defendido Srnicek, Williams y Hester
 crítica apuntarían a una pragmática *Free Libre Open Source Software
 (FLOSS)*, una etiqueta que en la jerga de programación se refiere a la
 creación de códigos completamente abiertos, manipulables y
-anticapitalistas. Mientras que la tecnocrítica se ocuparía del
+anticapitalistas. Mientras que la [[tecnocrítica]] se ocuparía del
 develamiento de los dispositivos de poder y al diseño de un porvenir
 poseconómico.
 
@@ -500,7 +500,7 @@ de extracción de valor. Se trata, siguiendo a Wark, de una
 mercantilización de la información en la economía contemporánea, que
 convive con otras formas de acaparamiento.
 
-La tarea de una fuerza política tecnocrítica responde a un cambio en la
+La tarea de una fuerza política [[tecnocrítica]] responde a un cambio en la
 producción económica a partir de la mercantilización de la información.
 Por más que quisiera, un ensayo de esta naturaleza no me permite ahondar
 en la construcción de un manifiesto pero sí señalar un grupo de mis
@@ -953,7 +953,7 @@ tiene sentido para nosotras pensar una consideración estratégica sobre
 la práctica política que trascienda la dialéctica entre horizontalismo y
 verticalidad \@TyrannyStucturelessness. Más allá de una nomenclatura en
 particular, nuestra posición siempre es tecnopolítica y por su visión
-tecnocrítica busca prácticas anti y poscapitalistas/estatales, creando
+[[tecnocrítica]] busca prácticas anti y poscapitalistas/estatales, creando
 bienes comunes que permitan la gobernanza de grupos que pueden
 reapropiarse políticamente de movimientos como el globalismo, la
 descentralización económica, modelos de gobernanza en red como la
@@ -961,11 +961,11 @@ sociocracia, entre otras cosas, entendiendo las subjetividades más allá
 del control administrativo central de la sociedad, es decir, de las
 normas que configuran los vínculos sociales.
 
-Una economía tecnocrítica debería basarse en cadenas de producción que
+Una economía [[tecnocrítica]] debería basarse en cadenas de producción que
 sean cíclicas y ecológicas, además de proponer trabajos orientados a la
 economía de la regeneración para generar empleos que restauren el medio
 ambiente. Hemos pensado que dentro de los elementos básicos de una
-economía tecnocrítica es necesario retomar formas económicas que
+economía [[tecnocrítica]] es necesario retomar formas económicas que
 reduzcan la dominación mercantil mientras que restaurar nuestra relación
 con el planeta, construir una propuesta económica sistemática basada en
 lo común. Esta nueva escuela económica tendría que infiltrarse a gran
@@ -1077,7 +1077,7 @@ en disputa:
   -------------------------------------------------------------------------------------
 
   : Propuesta de aproximación conceptual a la dominación estatal desde
-  la tecnocrítica.
+  la [[tecnocrítica]].
 :::
 
 Como complemento, ANON propone una interacción entre diferentes tipos de
@@ -1361,20 +1361,20 @@ embargo, como hemos señalado antes, el discurso es en general una
 crítica textual que asume y reafirma la diferencia entre mente y cuerpo.
 Ahí, en los terrenos de la pura discursividad no es posible ninguna
 forma ajena al estado de las cosas. De ahí la necesidad de una
-tecnocrítica como acción crítica, como el develamiento, hackeo y
+[[tecnocrítica]] como acción crítica, como el develamiento, hackeo y
 operación directa sobre los distintos regímenes de producción de
 significado y valor que actúan sobre mercancías y formas de vida
 indistintamente. Solo en la capacidad de hacer ver estas formas de
 poder, de romper el agenciamiento producido por la discursividad, es que
-es posible. Decimos que la tecnocrítica se trata de una estadística de
+es posible. Decimos que la [[tecnocrítica]] se trata de una estadística de
 la potencia, de las condiciones de posibilidad de los hablantes,
 entendiendo como hablantes a las cosas y no solo a las bocas.
 
 Una pragmática poscapitalista tiene que hacer frente a los problemas
 *económicos* que dan sentido al Estado. El pragmatismo de la
-tecnocrítica significa dejar de ver el arreglo de la sociedad como un
+[[tecnocrítica]] significa dejar de ver el arreglo de la sociedad como un
 contrato social y analizarlo como un juego con reglas de operación dadas
-por el Estado. Ver la tecnocrítica como una wiki, como una plataforma de
+por el Estado. Ver la [[tecnocrítica]] como una wiki, como una plataforma de
 know-how, una posición familiar al diseño especulativo. Un concepto de
 mucha utilidad es el de Low tech, tecnologías más allá de la lógica de
 producción capitalista cuyo propósito es ser útiles, desacelerar las
@@ -1510,7 +1510,7 @@ abusos de poder. Dentro de las estrategias, podemos proponer visiones
 para que, por ejemplo, los emprendedores en cuanto clase vectorialista
 entiendan como disruptivo
 [@magazineDisruptiveInnovationsEntrepreneurship2018] lo que es
-*estructural*, una visión tecnocrítica que procure la organización
+*estructural*, una visión [[tecnocrítica]] que procure la organización
 cooperativista y el reconocimiento explícito de jerarquías. Se trata de
 disputar el concepto de "gobernanza" dinámica y participativa, pensar
 que sea una gobernanza basada en *outputs* o resultados, pero que no se
@@ -1546,7 +1546,7 @@ relacionar distintos problemas y trazar cartografías que permitan
 visualizar distintas formas de violencia, que develen los agenciamientos
 que operan en diversos entes.
 
-## La tecnocrítica responde a la neorreacción, a la [[guerra de religiones]] y al universalismo {#sec:la-tecnocrítica-responde}
+## La [[tecnocrítica]] responde a la neorreacción, a la [[guerra de religiones]] y al universalismo {#sec:la-[[tecnocrítica]]-responde}
 
 ::: epigraph
 "La historia de los pueblos que tienen una Historia es la historia de la
@@ -1591,8 +1591,8 @@ conjunto de tecnologías para tener procesos similares a los seres
 vivientes y para garantizar su supervivencia parasitaria. La religión de
 Estado tienen en el virus capitalista un *nomos* doctrinario invisible.
 Por eso, la tarea de una imaginaria política que nos plantee un afuera
-al Estado solo tiene sentido como una empresa tecnocrítica. La potencia
-tecnocrítica se parece al conatus spinoziano. Pero no es una forma de
+al Estado solo tiene sentido como una empresa [[tecnocrítica]]. La potencia
+[[tecnocrítica]] se parece al conatus spinoziano. Pero no es una forma de
 diluir la todavía hoy tensa relación entre teoría y praxis. Una forma de
 vida está *sujeta* a las condiciones tecnopolítica que la disponen, que
 la producen. Ya no es suficiente tomar los medios de producción sino que
@@ -1618,13 +1618,13 @@ política y no asumirla como instinto de neutralidad, como pathos
 originario de la vida. Develar la razón como artilugio del Estado para
 poder hackearla.
 
-La tecnocrítica es una operación tecnomaterialista de reconocimiento. La
-tecnocrítica se trata de situar-se, de hacer de la máquina libidinal una
-persona a través del gesto, de su cualidad de hablante. La tecnocrítica
+La [[tecnocrítica]] es una operación tecnomaterialista de reconocimiento. La
+[[tecnocrítica]] se trata de situar-se, de hacer de la máquina libidinal una
+persona a través del gesto, de su cualidad de hablante. La [[tecnocrítica]]
 se vale también de la memética como dinámica del movimiento de entes
 incorpóreos, es una ontosemiótica contemporánea. Tiene, entre otros
 objetos, a los circuitos de producción de deseo y de significado. La
-tecnocrítica puede localizar distintas formas de violencia en función de
+[[tecnocrítica]] puede localizar distintas formas de violencia en función de
 lo que hemos señalado anteriormente. La violencia, punto central en la
 [[guerra de religiones]] y en la religión de Estado, es en este contexto una
 relación de poder no consensuada directamente, la dependencia que hace
@@ -1654,7 +1654,7 @@ construcción de lo común. Hoy en día, esta tarea cuenta con infinidad de
 tácticas y solo algunos esfuerzos políticos por volver a pensar en una
 gran estrategia global para la potencia tecnomaterial de todas las
 formas de vida. El fin de la [[guerra de religiones]] y de la religión de
-Estado es la práctica de una espiritualidad tecnocrítica, más cercana al
+Estado es la práctica de una espiritualidad [[tecnocrítica]], más cercana al
 paganismo, al sincretismo y al *uso* de la hermenéutica para la
 destitución del Estado, de la dominación mercantil, de la latencia
 psíquica del Edipo.
@@ -1804,7 +1804,7 @@ da origen a la *societas*. Concluyo con una frase de ContraPoints
     [@jungerEumeswil2011].
 
 [^3]: Que para mí sería algo así como las formas de vida se posicionan
-    por una areté tecnocrítica.
+    por una areté [[tecnocrítica]].
 
 [^4]: Sin embargo, quiero hacer énfasis en que la parte biológica y el
     vínculo Alinsky meets Lyotard lo encontré navegando en alguna web de

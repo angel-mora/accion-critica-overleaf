@@ -510,7 +510,7 @@ Pese al espíritu negativo del cínico, hoy hay más herramientas para
 resolver esos problemas que dan tanta fuerza a los embrujos mercantiles.
 La profanación de esa utopía tecnocapitalista sería una heterotopía de
 soberanía tecno política, que solo se puede lograr a través de la
-*tecnocrítica*. A este concepto dedicaremos el siguiente capítulo.
+*[[tecnocrítica]]*. A este concepto dedicaremos el siguiente capítulo.
 Necesitamos un afuera a la jerarquía familiar que solo es la fábrica de
 deseo que reproduce la sociedad.
 

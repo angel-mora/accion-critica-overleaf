@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "9111fab88d71c7fa",
+        "id": "fdf1e7c684632e1c",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -120,7 +120,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9111fab88d71c7fa",
+  "active": "fdf1e7c684632e1c",
   "lastOpenFiles": [
     "en/md/chapters/01-intro.md",
     "4chan.org.md"
