@@ -2,7 +2,7 @@
 author:
 - Angel de Jesús Mora Morales
 bibliography:
-- bibliography/tesis-revision-ortografia.bib
+- bibliography/index.bib
 date: 2022-09-11
 publishers: "*Listopad*"
 subject: Tesis

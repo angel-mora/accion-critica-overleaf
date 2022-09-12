@@ -7,7 +7,7 @@
         "id": "ce27635ef4948759",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -122,10 +122,10 @@
   },
   "active": "ce27635ef4948759",
   "lastOpenFiles": [
-    "README.md",
-    "CHANGELOG.md",
-    "2022-09-11.md",
     "es/md/chapters/01-intro.md",
+    "CHANGELOG.md",
+    "README.md",
+    "2022-09-11.md",
     "en/md/chapters/01-intro.md",
     "4chan.org.md"
   ]
