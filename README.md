@@ -5,7 +5,6 @@ This book is my thesis work at UNAM MX to graduate from Philosophy. Started most
 After graduating, decided to start playing around it now that I am also a programmer.
 
 ## This book is available in these languages so far
-
 - spanish
 - english
 - french (coming soon)
@@ -21,3 +20,7 @@ It's mostly tiny scripts to help me in the writing/translating/editing process.
 ### TODOs
 - Ruby script to move text back to Markdown but keep Latex section separated.
 - Script to generate text from template format in Latex
+
+## Support me!
+
+<a href="https://www.patreon.com/bePatron?u=8210396" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>

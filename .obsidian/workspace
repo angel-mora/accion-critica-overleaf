@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "fdf1e7c684632e1c",
+        "id": "ce27635ef4948759",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -120,8 +120,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fdf1e7c684632e1c",
+  "active": "ce27635ef4948759",
   "lastOpenFiles": [
+    "README.md",
+    "CHANGELOG.md",
+    "2022-09-11.md",
+    "es/md/chapters/01-intro.md",
     "en/md/chapters/01-intro.md",
     "4chan.org.md"
   ]
