@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ce27635ef4948759",
+        "id": "b9e0fb9941bee324",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -120,13 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ce27635ef4948759",
+  "active": "b9e0fb9941bee324",
   "lastOpenFiles": [
+    "es/md/chapters/02-chapter1.md",
+    "Presentation Flow.md",
+    "Book Synthesis.md",
+    "antropología positiva.md",
     "es/md/chapters/01-intro.md",
+    "es/md/chapters/03-chapter2.md",
+    "es/md/main.md",
     "CHANGELOG.md",
     "README.md",
-    "2022-09-11.md",
-    "en/md/chapters/01-intro.md",
-    "4chan.org.md"
+    "2022-09-11.md"
   ]
 }
