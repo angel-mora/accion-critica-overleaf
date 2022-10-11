@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9e0fb9941bee324",
+        "id": "11eec1f83f54039f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9e0fb9941bee324",
+  "active": "18ea5cf686c55206",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "README.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "es/md/chapters/02-chapter1.md",
     "Presentation Flow.md",
     "Book Synthesis.md",
     "antropología positiva.md",
     "es/md/chapters/01-intro.md",
-    "es/md/chapters/03-chapter2.md",
-    "es/md/main.md",
-    "CHANGELOG.md",
-    "README.md",
-    "2022-09-11.md"
+    "es/md/chapters/03-chapter2.md"
   ]
 }
