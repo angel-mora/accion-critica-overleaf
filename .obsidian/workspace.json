@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bcaecc85efe6dc0f",
+        "id": "4b41e958bf5bf0a4",
         "type": "tabs",
         "children": [
           {
-            "id": "40dc2c4d001032de",
+            "id": "2217d0cc867fcb2f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -86,8 +86,8 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -98,7 +98,7 @@
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -121,27 +121,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "40dc2c4d001032de",
+  "active": "2217d0cc867fcb2f",
   "lastOpenFiles": [
+    "es/md/chapters/03-chapter2.md",
+    "es/md/chapters/02-chapter1.md",
+    "README.md",
+    "es/md/chapters/01-intro.md",
+    "imaginación política.md",
     "Book Synthesis.md",
     "Presentation Flow.md",
-    "README.md",
     "Untitled 1.md",
     "Untitled 2.md",
-    "Untitled.md",
-    "es/md/chapters/02-chapter1.md",
-    "antropología positiva.md",
-    "es/md/chapters/01-intro.md",
-    "es/md/chapters/03-chapter2.md"
+    "Untitled.md"
   ]
 }
